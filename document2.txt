@@ -95,7 +95,7 @@ void printArray(int A[], int size)
 	printf("\n");
 }
 
-// Driver code2
+// Driver code입니다
 int main()
 {
 	int arr[] = {12, 11, 13, 5, 6, 7};
